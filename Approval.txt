@@ -3,3 +3,7 @@ RIFAT=1-0-5-2-6-u-0-_-a-5-2-6  >nam nai 😐
 RIFAT=1-0-2-2-2-u-0-_-a-2-2-2  >sumon
 RIFAT=1-0-1-9-7-u-0-_-a-1-9-7  >sagor
 RIFAT=1-0-2-7-1-u-0-_-a-2-7-1  >farabi
+RIFAT=1-0-2-0-7-u-0-_-a-2-0-7  >7day
+RIFAT=1-0-4-6-6-u-0-_-a-4-6-6  >7day
+RIFAT=1-0-2-7-6-u-0-_-a-2-7-6  >7day free
+RIFAT=1-0-4-2-0-u-0-_-a-4-2-0  >sad
