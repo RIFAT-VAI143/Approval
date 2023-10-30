@@ -6,3 +6,4 @@ RIFAT=1-0-0-1-3-u-0-_-a-1-3   Tanvir
 RIFAT=1-0-4-2-0-u-0-_-a-4-2-0 Sadman
 RIFAT=1-0-4-9-4-u-0-_-a-4-9-4  Rahim
 RIFAT=1-0-1-5-5-u-0-_-a-1-5-5 Prince
+RIFAT=1-0-2-6-6-u-0-_-a-2-6-6 Rabbi
