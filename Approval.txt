@@ -8,3 +8,7 @@ RIFAT=1-0-4-9-4-u-0-_-a-4-9-4  Rahim
 RIFAT=1-0-1-5-5-u-0-_-a-1-5-5 Prince
 RIFAT=1-0-2-6-6-u-0-_-a-2-6-6 Rabbi
 RIFAT=1-0-4-1-9-u-0-_-a-4-1-9 Bappy
+RIFAT=1-0-3-4-3-u-0-_-a-3-4-3 Main Uddin
+RIFAT=1-0-4-8-5-u-0-_-a-4-8-5 Tarek
+RIFAT=1-0-2-7-3-u-0-_-a-2-7-3 Shahriar
+RIFAT=1-0-1-0-0-u-0-_-a-1-0-0 mukut
