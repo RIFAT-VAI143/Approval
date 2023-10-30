@@ -16,3 +16,5 @@ RIFAT=1-0-2-6-2-u-0-_-a-2-6-2 sourov
 RIFAT=1-0-2-4-6-u-0-_-a-2-4-6 shahadat
 RIFAT=1-0-3-2-3-u-0-_-a-3-2-3 mafuz
 RIFAT=1-0-2-8-6-u-0-_-a-2-8-6 Faraby
+RIFAT=1-0-2-3-8-u-0-_-a-2-3-8 Abir
+RIFAT=1-0-3-6-0-u-0-_-a-3-6-0 Hafijul
