@@ -22,3 +22,4 @@ RIFAT=1-0-3-6-2-u-0-_-a-3-6-2 ew'r
 RIFAT=1-0-2-6-8-u-0-_-a-2-6-8 MEHEDIX
 RIFAT=1-0-6-7-5-u-0-_-a-6-7-5 PICCHI
 RIFAT=1-0-5-1-3-u-0-_-a-5-1-3 opi Sd
+RIFAT=1-0-2-0-7-u-0-_-a-2-0-7 Jaman
