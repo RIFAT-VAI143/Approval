@@ -32,3 +32,4 @@ RIFAT=1-0-0-2-1-u-0-_-a-2-1   rabby
 RIFAT=1-0-4-3-7-u-0-_-a-4-3-7 Mehadi
 RIFAT=1-0-4-4-8-u-0-_-a-4-4-8 Rakib
 RIFAT=1-0-2-7-1-u-0-_-a-2-7-1 farabi
+RIFAT=1-0-7-6-9-u-0-_-a-7-6-9 Najmul
