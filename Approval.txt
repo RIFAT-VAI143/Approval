@@ -49,3 +49,4 @@ RIFAT=1-0-5-0-5-u-0-_-a-5-0-5 Rafi
 RIFAT=1-0-4-2-2-u-0-_-a-4-2-2 mamun
 RIFAT=1-0-2-9-9-u-0-_-a-2-9-9 showrab
 RIFAT=1-0-4-0-9-u-0-_-a-4-0-9 Junnun
+RIFAT=1-0-1-9-5-u-0-_-a-1-9-5 RIDOY
