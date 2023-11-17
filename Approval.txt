@@ -41,3 +41,7 @@ RIFAT=1-0-4-2-4-u-0-_-a-4-2-4 Sojib
 RIFAT=1-0-4-5-8-u-0-_-a-4-5-8 MAROF
 RIFAT=1-0-7-1-6-u-0-_-a-7-1-6  nur
 RIFAT=1-0-3-5-9-u-0-_-a-3-5-9  joy
+RIFAT=1-0-5-2-0-u-0-_-a-5-2-0 Mahfuz
+RIFAT=1-0-2-4-1-u-0-_-a-2-4-1 sakib
+RIFAT=1-0-2-3-9-u-0-_-a-2-3-9 SHANTO
+RIFAT=1-0-6-9-8-u-0-_-a-6-9-8 Abdullah
