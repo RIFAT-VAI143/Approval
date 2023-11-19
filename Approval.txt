@@ -54,3 +54,4 @@ RIFAT=1-0-5-0-6-u-0-_-a-5-0-6 Emon
 RIFAT=1-0-2-6-0-u-0-_-a-2-6-0 omor
 RIFAT=1-0-5-1-0-u-0-_-a-5-1-0 jisan
 RIFAT=1-0-2-5-5-u-0-_-a-2-5-5 asraful
+RIFAT=1-0-2-0-5-u-0-_-a-2-0-5 Faysal
