@@ -11,3 +11,5 @@ RIFAT=1-0-3-0-7-u-0-_-a-3-0-7 Sobuj
 RIFAT=1-0-7-6-9-u-0-_-a-7-6-9 Najmul
 RIFAT=1-0-7-1-9-u-0-_-a-7-1-9 Rokib
 RIFAT=1-0-1-7-2-u-0-_-a-1-7-2 jaman
+RIFAT=1-0-1-9-6-u-0-_-a-1-9-6 Saimon
+RIFAT=1-0-1-9-5-u-0-_-a-1-9-5 Ridoy
