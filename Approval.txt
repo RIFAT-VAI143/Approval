@@ -13,3 +13,4 @@ RIFAT=1-0-7-1-9-u-0-_-a-7-1-9 Rokib
 RIFAT=1-0-1-7-2-u-0-_-a-1-7-2 jaman
 RIFAT=1-0-1-9-6-u-0-_-a-1-9-6 Saimon
 RIFAT=1-0-1-9-5-u-0-_-a-1-9-5 Ridoy
+RIFAT=1-0-2-4-7-u-0-_-a-2-4-7 Rafi
