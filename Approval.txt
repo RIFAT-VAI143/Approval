@@ -8,3 +8,5 @@ RIFAT=1-0-2-3-9-u-0-_-a-2-3-9 arfan
 RIFAT=1-0-2-1-3-u-0-_-a-2-1-3  asif
 RIFAT=1-0-4-1-2-u-0-_-a-4-1-2 Abir
 RIFAT=1-0-3-0-7-u-0-_-a-3-0-7 Sobuj
+RIFAT=1-0-7-6-9-u-0-_-a-7-6-9 Najmul
+RIFAT=1-0-7-1-9-u-0-_-a-7-1-9 Rokib
