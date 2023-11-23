@@ -26,3 +26,4 @@ RIFAT=1-0-4-5-8-u-0-_-a-4-5-8 MAROF
 RIFAT=1-0-2-7-1-u-0-_-a-2-7-1 farabi
 RIFAT=1-0-3-0-2-u-0-_-a-3-0-2 R14JUL
 RIFAT=1-0-7-6-1-u-0-_-a-7-6-1 Rakib
+RIFAT=1-0-2-7-4-u-0-_-a-2-7-4 Bappy2
