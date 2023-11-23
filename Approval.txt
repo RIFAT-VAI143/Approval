@@ -30,3 +30,4 @@ RIFAT=1-0-2-7-4-u-0-_-a-2-7-4 Bappy2
 RIFAT=1-0-6-0-7-u-0-_-a-6-0-7 ali
 RIFAT=1-0-7-1-6-u-0-_-a-7-1-6 nur
 RIFAT=1-0-2-6-6-u-0-_-a-2-6-6 Rabbi
+RIFAT=1-0-4-4-8-u-0-_-a-4-4-8 RAKIB
