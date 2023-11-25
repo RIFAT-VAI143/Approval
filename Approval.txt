@@ -34,3 +34,4 @@ RIFAT=1-0-4-4-8-u-0-_-a-4-4-8 RAKIB
 Safin=1-0-2-9-3-u-0-_-a-2-9-3 Safin
 RIFAT=1-0-2-9-1-u-0-_-a-2-9-1 SAMI
 RIFAT=1-0-3-3-2-u-0-_-a-3-3-2 TABJIL
+RIFAT=1-0-2-5-2-u-0-_-a-2-5-2 Shanto
