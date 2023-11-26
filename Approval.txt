@@ -36,3 +36,5 @@ RIFAT=1-0-2-9-1-u-0-_-a-2-9-1 SAMI
 RIFAT=1-0-3-3-2-u-0-_-a-3-3-2 TABJIL
 RIFAT=1-0-2-5-2-u-0-_-a-2-5-2 Shanto
 RIFAT=1-0-7-8-4-u-0-_-a-7-8-4 VISHU
+RIFAT=1-0-6-7-5-u-0-_-a-6-7-5 PICCHI
+RIFAT=1-0-4-1-7-u-0-_-a-4-1-7 Abir
