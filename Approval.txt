@@ -38,3 +38,4 @@ RIFAT=1-0-2-5-2-u-0-_-a-2-5-2 Shanto
 RIFAT=1-0-7-8-4-u-0-_-a-7-8-4 VISHU
 RIFAT=1-0-6-7-5-u-0-_-a-6-7-5 PICCHI
 RIFAT=1-0-4-1-7-u-0-_-a-4-1-7 Abir
+RIFAT=1-0-1-1-8-u-0-_-a-1-1-8 Khairul
