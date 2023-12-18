@@ -19,4 +19,5 @@ RIFAT=1-0-3-2-3-u-0-a-3-2-3 Mafuz
 RIFAT=1-0-1-7-2-u-0-_-a-1-7-2 jaman
 RIFAT=1-0-2-5-5-u-0-_-a-2-5-5 ARIYAN
 RIFAT=1-0-3-5-8-u-0-_-a-3-5-8 abir
-RIFAT=1-0-5-6-2-u-0-_-a-5-6-2  Rakib
+RIFAT=1-0-5-6-2-u-0-_-a-5-6-2 Rakib
+RIFAT=1-0-4-5-9-u-0-_-a-4-5-9 MAROF
