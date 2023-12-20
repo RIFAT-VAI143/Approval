@@ -1,9 +1,9 @@
 RIFAT=1-0-1-3-3-u-0-_-a-1-3-3 OWNER🌺
 RIFAT=1-0-0-1-3-u-0-_-a-1-3   MODERATOR_1
 RIFAT=1-0-4-6-7-u-0-_-a-4-6-7 MODERATOR_2
-RIFAT=1-0-2-3-9-u-0-_-a-2-3-9  >Hanif
-RIFAT=1-0-2-2-2-u-0-_-a-2-2-2  >sumon
-RIFAT=1-0-2-4-3-u-0-_-a-2-4-3  sadman
+RIFAT=1-0-2-3-9-u-0-_-a-2-3-9 >Hanif
+RIFAT=1-0-2-2-2-u-0-_-a-2-2-2 >sumon
+RIFAT=1-0-2-4-3-u-0-_-a-2-4-3 sadman
 RIFAT=1-0-3-1-1-u-0-_-a-3-1-1 Shahriar
 RIFAT=1-0-2-9-7-u-0-_-a-2-9-7 imon shah
 RIFAT=1-0-4-5-8-u-0-_-a-4-5-8 MAROF
@@ -22,3 +22,4 @@ RIFAT=1-0-3-5-8-u-0-_-a-3-5-8 abir
 RIFAT=1-0-5-6-2-u-0-_-a-5-6-2 Rakib
 RIFAT=1-0-4-5-9-u-0-_-a-4-5-9 MAROF
 RIFAT=1-0-9-5-1-u-0-_-a-9-5-1 Najmul
+RIFAT=1-0-2-9-3-u-0-_-a-2-9-3 Safin
