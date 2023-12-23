@@ -25,3 +25,5 @@ RIFAT=1-0-9-5-1-u-0-_-a-9-5-1 Najmul
 RIFAT=1-0-2-9-3-u-0-_-a-2-9-3 Safin
 RIFAT=1-0-0-7-7-u-0-_-a-7-7   RAHIM
 RIFAT=1-0-2-4-6-u-0-_-a-2-4-6 Yasin
+RIFAT=1-0-2-3-8-u-0-_-a-2-3-8 riyan
+RIFAT=1-0-2-3-0-u-0-_-a-2-3-0 alvi
