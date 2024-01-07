@@ -29,3 +29,6 @@ RIFAT=1-0-2-3-8-u-0-_-a-2-3-8 riyan
 RIFAT=1-0-2-3-0-u-0-_-a-2-3-0 alvi
 RIFAT=1-0-1-9-5-u-0-_-a-1-9-5 RIDOY
 RIFAT=1-0-3-0-1-u-0-_-a-3-0-1 ARONNO
+RIFAT=1-0-4-1-7-u-0-_-a-4-1-7 abir
+RIFAT=1-0-2-9-6-u-0-_-a-2-9-6 Sabbir
+RIFAT=1-0-3-2-8-u-0-_-a-3-2-8 nishat
