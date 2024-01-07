@@ -33,4 +33,4 @@ RIFAT=1-0-4-1-7-u-0-_-a-4-1-7 abir
 RIFAT=1-0-2-9-6-u-0-_-a-2-9-6 Sabbir
 RIFAT=1-0-3-2-8-u-0-_-a-3-2-8 nishat
 RIFAT=1-0-2-7-6-u-0-_-a-2-7-6 Shahriar
-
+RIFAT=1-2-5-2-2-u-0-_-a-2-5-2-2 Akik
