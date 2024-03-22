@@ -26,3 +26,5 @@ RIFAT=1-0-2-3-4-u-0-_-a-2-3-4 adil
 RIFAT=1-0-1-5-0-u-0-_-a-1-5-0 MANIK
 RIFAT=1-0-2-6-7-u-0-_-a-2-6-7 Mamun
 RIFAT=1-0-1-8-6-u-0-_-a-1-8-6 NIROB
+RIFAT=1-0-2-1-0-u-0-_-a-2-1-0 Abir
+
