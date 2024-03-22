@@ -39,3 +39,5 @@ RIFAT=1-0-1-9-4-u-0-_-a-1-9-4 Pappu
 RIFAT=1-0-2-7-6-u-0-_-a-2-7-6 asif
 RIFAT=1-0-3-2-7-u-0-_-a-3-2-7 Abir
 RIFAT=1-0-7-1-6-u-0-_-a-7-1-6 NUR
+RIFAT=1-0-5-2-5-u-0-_-a-5-2-5 kamrul
+
