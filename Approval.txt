@@ -73,3 +73,6 @@ RIFAT=1-0-2-3-7-u-0-_-a-2-3-7 Arafat
 RIFAT=1-0-2-8-8-u-0-_-a-2-8-8 halim
 RIFAT=1-0-2-5-6-u-0-_-a-2-5-6 Shovo
 RIFAT=1-0-2-2-1-u-0-_-a-2-2-1 Rahim
+RIFAT=1-0-2-5-1-u-0-_-a-2-5-1 riyan
+RIFAT=1-0-7-9-9-u-0-_-a-7-9-9 Siam
+RIFAT=1-0-2-4-0-u-0-_-a-2-4-0 Tom
