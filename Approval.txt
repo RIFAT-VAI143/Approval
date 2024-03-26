@@ -9,5 +9,5 @@ RIFAT=1-0-3-0-1-u-0-_-a-3-0-1 ARONNO
 RIFAT=1-0-3-8-8-u-0-_-a-3-8-8 mohit
 RIFAT=1-0-3-1-5-u-0-_-a-3-1-5 farabi
 RIFAT=1-0-2-9-9-u-0-_-a-2-9-9 Shakil
-
+RIFAT=1-0-7-1-6-u-0-_-a-7-1-6  nur
 
