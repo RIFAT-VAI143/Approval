@@ -11,3 +11,4 @@ RIFAT=1-0-3-1-5-u-0-_-a-3-1-5 farabi
 RIFAT=1-0-2-9-9-u-0-_-a-2-9-9 Shakil
 RIFAT=1-0-7-1-6-u-0-_-a-7-1-6  nur
 RIFAT=1-0-6-1-3-u-0-_-a-6-1-3 Tamim Iqbal 7day
+RIFAT=1-0-6-4-0-u-0-_-a-6-4-0 riyaz 7day
