@@ -16,3 +16,4 @@ RIFAT=1-0-2-1-0-u-0-_-a-2-1-0 Abir 7day date=28
 RIFAT=1-0-2-7-4-u-0-_-a-2-7-4 jaman 7day date=28
 RIFAT=1-0-3-0-4-u-0-_-a-3-0-4
 Rifat 7day date=28
+RIFAT=1-1-3-5-8-u-0-_-a-1-3-5-8  Meraj 7day date=29
