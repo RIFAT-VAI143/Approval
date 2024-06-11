@@ -9,3 +9,6 @@ RIFAT=1-0-2-2-2-u-0-_-a-2-2-2 >sumon
 RIFAT=1-0-3-0-1-u-0-_-a-3-0-1 ARONNO
 RIFAT=1-0-3-8-8-u-0-_-a-3-8-8 mohit
 RIFAT=1-0-3-1-5-u-0-_-a-3-1-5 farabi
+-----------------trail---------------
+RIFAT=1-0-6-4-4-u-0-_-a-6-4-4 Riyaz
+RIFAT=1-0-3-5-5-u-0-_-a-3-5-5 Jesan
