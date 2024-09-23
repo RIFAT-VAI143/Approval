@@ -4,3 +4,5 @@ RIFAT=1-0-1-1-1-u-0-_-a-1-1-1 mohit
 RIFAT=1-0-1-9-8-u-0-_-a-1-9-8 ARONNO১
 RIFAT=1-0-3-3-5-u-0-_-a-3-3-5 nishat
 RIFAT=1-0-3-1-7-u-0-_-a-3-1-7 durjoy
+RIFAT=1-0-4-2-0-u-0-_-a-4-2-0 Rahim
+RIFAT=1-0-6-1-3-u-0-_-a-6-1-3 Tamim Iqbal
