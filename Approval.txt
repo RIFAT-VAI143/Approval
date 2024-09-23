@@ -1,13 +1,1 @@
-RIFAT=1-0-1-2-0-u-0-_-a-1-2-0 OWNER🌺
-RIFAT=1-0-4-1-1-u-0-_-a-4-1-1 MITE🌺
-RIFAT=1-0-1-4-0-u-0-_-a-1-4-0 RAHAD🌺
-RIFAT=1-0-4-2-9-u-0-_-a-4-2-9 RISHAD
-RIFAT=1-0-1-8-3-u-0-_-a-1-8-3 MODERATOR_1
-RIFAT=1-0-4-6-7-u-0-_-a-4-6-7 MODERATOR_2
-RIFAT=1-0-7-2-4-u-0-_-a-7-2-4 >Hanif
-RIFAT=1-0-2-2-2-u-0-_-a-2-2-2 >sumon
-RIFAT=1-0-3-0-1-u-0-_-a-3-0-1 ARONNO
-RIFAT=1-0-3-8-8-u-0-_-a-3-8-8 mohit
-RIFAT=1-0-3-1-5-u-0-_-a-3-1-5 farabi
--------------------paid----------------
-RIFAT=1-0-2-0-4-u-0-_-a-2-0-4 Rakibul islam
+RIFAT=1-0-0-6-2-u-0-_-a-6-2 OWNER🌺
