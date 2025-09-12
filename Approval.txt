@@ -7,7 +7,6 @@
 da50e54ead21 | Shuvo
 33bbe60624f1 | Limon
 8dddbda54010 | SYED MUJAHID
-f28877f9a53a | Mafuz
 68ab4232eaa3 | Admin
 777b96f01820 | poran
 5b2eb218b43b | Emon
@@ -20,8 +19,7 @@ ad3af6ed736e | ALI
 7114bb038578 | Rakib
 b7ca30833479 | Monojeet
 90dbc4197b9d | Mobarok Hassan
-516939406633 | king
-b539fc29ce3d | IBRAHIM
+516939406633 | f39fc29ce3d | IBRAHIM
 75e875a12c94 | ABU SK
 eee2651fe605 | evan
 5b8d47ad5835 | Sadik
@@ -50,5 +48,6 @@ e5f4e38a54c7 | Ashik Raj
 9e014a0f9aa8 | Asif
 24c763dc70a5 | Rabby
 3a0edaa02ce8 | Muhammed
---------------[Auto-create]------------#
+8e9cbd58af4b | SHADIN AFRIDI
+#---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
