@@ -13,7 +13,6 @@ e39b433caf | RIFAT
 61035fa31209 | RAZA-XR
 3a0edaa02ce8 | atik
 7114bb038578 | ABIR
-7ed54852dcf9 | asif
 8133017595d3 | SIHAB
 e47fcff08dce | Miraz
 da50e54ead21 | JONI SING
