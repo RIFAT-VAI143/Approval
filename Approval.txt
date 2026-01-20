@@ -10,6 +10,7 @@ de694bc255 | lipu
 352c61120e | RAZA-XR
 321e27c583 | kamrul
 3c0ba7120c | SIHAB
+b289425997 | Miraz
 #-----------[PC-CLONE]-------------#
 15d42bb8db12 | RIFAT
 12cab271fcc6 | SIFAT
