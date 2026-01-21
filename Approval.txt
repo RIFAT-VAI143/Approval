@@ -31,5 +31,6 @@ c15f5e454719 | MUJAHID
 f8e726d26b90 | Nadif
 ab1e3f6a8767 | kamrul
 a27f65c555a9 | khanki
+8e39a661c232 | Nashit
 #---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
