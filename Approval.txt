@@ -12,6 +12,7 @@ de694bc255 | lipu
 3c0ba7120c | SIHAB
 b289425997 | Miraz
 55cb950cff | Nahid
+1cbabefba5 | fox
 #-----------[PC-CLONE]-------------#
 15d42bb8db12 | RIFAT
 12cab271fcc6 | SIFAT
