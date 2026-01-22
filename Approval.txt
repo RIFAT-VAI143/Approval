@@ -44,5 +44,6 @@ b3538c8f5a73 | Blackvai
 65f5b54f283c | Shahriar
 5a75397ece38 | Md Raza
 24c763dc70a5 | Maruf
+ad681b07cc52 | Shekh Farid
 #---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
