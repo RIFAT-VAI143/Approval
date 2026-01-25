@@ -16,5 +16,7 @@ b289425997 | Miraz
 #-----------[PC-CLONE]-------------#
 15d42bb8db12 | RIFAT
 911636858729 | sabbir
+d12bca0c8b46 | RIYAD
+5f08e4905f49 | ASIF
 #---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
