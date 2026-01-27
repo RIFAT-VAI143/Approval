@@ -39,5 +39,6 @@ f7568e1409c1 | AKASH
 8c85ac2156bc | Husnain
 577cd64738fc | minhaj
 2d26abe0009a | sagor
+05f81445e8f8 | md parvez
 #---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
