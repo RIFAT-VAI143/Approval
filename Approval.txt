@@ -16,29 +16,5 @@ b289425997 | Miraz
 #-----------[PC-CLONE]-------------#
 15d42bb8db12 | RIFAT
 911636858729 | sabbir
-d12bca0c8b46 | RIYAD
-5f08e4905f49 | ASIF
-2785b74212b6 | siam
-adaf63a1117a | Sadik
-da5f3e656c23 | rahul
--
-0657ecbeb75e | Jehad
-59694f5d06ba | Rahat
-af32969ada4b | mehidiha94
-5d686f7f3555 | Naruto
--
-2f4d9b5d247f | Jisan Sheikh
-826650cf7a5d | Alif
-c4bdbbb622ec | jubayer
-124e23e3c6d4 | Al Emran Anik
-ac6b4e3e5580 | SAKIB
-074456ee2fc5 | siyam
-516939406633 | Nirob
-f7568e1409c1 | AKASH
-7779c9d5d284 | Nishan
-8c85ac2156bc | Husnain
-577cd64738fc | minhaj
-2d26abe0009a | sagor
-05f81445e8f8 | md parvez
 #---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
