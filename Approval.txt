@@ -15,9 +15,9 @@ b289425997 | Miraz
 1cbabefba5 | fox
 #-----------[PC-CLONE]-------------#
 15d42bb8db12 | RIFAT
-911636858729 | sabbir
 8e39a661c232 | Nashit
 05f81445e8f8 | md parvez
 64fdd819afc4 | Tanmoy
+0657ecbeb75e | Jehad
 #---------[Auto-create]------------#
 AUTOTO0AUTO2AUTO3AUTO2AUTOuAUTO0AUTO_AUTOaAUTO2AUTO3AUTO2 | NOOR
